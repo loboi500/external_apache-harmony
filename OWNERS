@@ -1,8 +1,3 @@
-# For JDWP changes:
-allight@google.com
-oth@google.com
-ngeoffray@google.com
-
-# For build / style / minor test fixes:
-include platform/libcore:/OWNERS
-calin@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:60e49aba33301a2ff8a28135d505636fa8e44662c7afdf8b2857baa019010dbb
+size 166
